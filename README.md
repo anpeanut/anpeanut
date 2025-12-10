@@ -1,5 +1,5 @@
 <h1 align="center">👋 欢迎来到anpeanut的Github主页！</h1>
-<h3 align="center">🚀 cs在读大二学生</h3>
+<h3 align="center">🚀 cs在读大三学生</h3>
 
 <p align="center">
   <a href="https://github.com/anpeanut">
